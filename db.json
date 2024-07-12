@@ -1,0 +1,40 @@
+{
+    "productos": [
+        {
+            "nombre": "",
+            "precio": "",
+            "descripcion": "",
+            "imagen": "",
+            "id": ""
+        },
+        {
+            "nombre": "",
+            "precio": "",
+            "descripcion": "",
+            "imagen": "",
+            "id": ""
+        },
+        {
+            "nombre": "",
+            "precio": "",
+            "descripcion": "",
+            "imagen": "",
+            "id": ""
+        },
+        {
+            "nombre": "",
+            "precio": "",
+            "descripcion": "",
+            "imagen": "",
+            "id": ""
+        },
+        {
+            "nombre": "",
+            "precio": "",
+            "descripcion": "",
+            "imagen": "",
+            "id": ""
+        }
+
+    ]
+}
